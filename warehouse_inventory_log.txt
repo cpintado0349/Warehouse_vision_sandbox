@@ -1,0 +1,15 @@
+--- WAREHOUSE DETECTION RECORD ---
+Total Objects Counted: 2
+Status: Processed Successfully
+----------------------------------------------
+
+--- WAREHOUSE DETECTION RECORD ---
+Total Objects Counted: 2
+Status: Processed Successfully
+----------------------------------------------
+
+--- WAREHOUSE DETECTION RECORD ---
+Total Objects Counted: 2
+Status: Processed Successfully
+----------------------------------------------
+

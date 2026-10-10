@@ -1,0 +1,5 @@
+cv_env/
+__pycache__/
+*.db
+ai_detected.output.jpg
+pallet_crop_test.jpg
