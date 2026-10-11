@@ -1,0 +1,14 @@
+# YOLOv8 Dataset Configuration File for Warehouse Pallet Intelligence
+
+# 1. Define Paths to Dataset Root Directories
+path: ./data # path relative to where you execute your training script
+train: images # training images subdirectory
+val: images # validation images subdirectory (using same for mock baseline)
+
+# 2. Define Object Classes
+nc: 2 # Number of distinct tracking classes
+
+# 3. Class Identity Names Array Mapping to ID Values
+names:
+0: cardboard_box
+1: wooden_pallet

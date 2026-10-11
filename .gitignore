@@ -1,5 +1,13 @@
+#Python enviroment files
 cv_env/
 __pycache__/
+*.pyc
+
+#Heavy Deep Learning outputs and weight
+runs/
+*.pt
+
+#databases and System temp files
 *.db
-ai_detected.output.jpg
-pallet_crop_test.jpg
+.DS_Store
+.vscode/
